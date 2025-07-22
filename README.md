@@ -58,6 +58,3 @@ The script will create a CSV file named `<org>_repos_summary.csv` in the current
 - The script makes one additional API call per repository to fetch the language breakdown.
 - For large organizations, this may take a few minutes and use more API quota.
 - The script prints progress messages so you know it is working.
-
-## License
-MIT 
