@@ -1,0 +1,77 @@
+name,owner,description,updated_at,language,languages_breakdown,html_url
+acm,gemini-hlsw,,2021-12-01,Java,"Java: 307817, Scala: 76613",https://github.com/gemini-hlsw/acm
+ags-server,gemini-hlsw,Legacy ags-server,2023-08-23,Scala,"Scala: 1987, Shell: 1702, Nix: 908, Procfile: 43",https://github.com/gemini-hlsw/ags-server
+aladin-lite,gemini-hlsw,An astronomical HiPS visualizer in the browser,2020-04-16,,"JavaScript: 426366, CSS: 21462, HTML: 10191, Shell: 4715",https://github.com/gemini-hlsw/aladin-lite
+antares2goats,gemini-hlsw,Browser extensions,2025-01-03,JavaScript,"JavaScript: 9810, Makefile: 1821, CSS: 1359, HTML: 993",https://github.com/gemini-hlsw/antares2goats
+basic-case,gemini-hlsw,Prototype API for the OCS3 basic science case.,2023-02-16,Scala,"Scala: 164747, HTML: 18367",https://github.com/gemini-hlsw/basic-case
+checklists,gemini-hlsw,Simple checklist app,2023-02-16,JavaScript,"JavaScript: 1553185, CSS: 68043, CoffeeScript: 37902, Scala: 33882, HTML: 32984",https://github.com/gemini-hlsw/checklists
+clue,gemini-hlsw,GraphQL client for Scala.,2025-07-08,Scala,"Scala: 370789, Nix: 832, Shell: 40",https://github.com/gemini-hlsw/clue
+crystal,gemini-hlsw,"Functional, tagless and lens-based, global state management. With scalajs-react fs2.Stream integrations.",2025-07-08,Scala,"Scala: 297877, Nix: 886, Shell: 41",https://github.com/gemini-hlsw/crystal
+dhs-http,gemini-hlsw,HTTP front end service for the DHS Server,2021-03-31,C++,"C++: 63026, Java: 16603, Makefile: 1590, C: 350, Shell: 99",https://github.com/gemini-hlsw/dhs-http
+explore,gemini-hlsw,,2025-07-21,Scala,"Scala: 2219754, SCSS: 124867, CSS: 32459, PLpgSQL: 16686, TypeScript: 8138, JavaScript: 3715, Shell: 2820, Nix: 1293, HTML: 898",https://github.com/gemini-hlsw/explore
+explore-help-docs,gemini-hlsw,,2025-05-27,,,https://github.com/gemini-hlsw/explore-help-docs
+gem,gemini-hlsw,prototype postgres back-end for ocs,2023-12-19,Scala,"Scala: 1050643, PLSQL: 8555, Python: 5416, PLpgSQL: 5095, Shell: 181",https://github.com/gemini-hlsw/gem
+gemini-locales,gemini-hlsw,Gemini locales package for Scala.js,2025-07-08,Scala,"Scala: 1079, Nix: 832, Shell: 40",https://github.com/gemini-hlsw/gemini-locales
+giapi,gemini-hlsw,Base code for the Gemini Instrument Application Programmer Interface,2020-04-16,,,https://github.com/gemini-hlsw/giapi
+giapi-glue-cc,gemini-hlsw,GIAPI library for C++,2025-06-28,C++,"C++: 362487, Python: 48538, Makefile: 25822, Shell: 2607, Dockerfile: 1391",https://github.com/gemini-hlsw/giapi-glue-cc
+giapi-scala,gemini-hlsw,,2025-07-05,Scala,"Scala: 132930, Nix: 931, Shell: 40",https://github.com/gemini-hlsw/giapi-scala
+gmp,gemini-hlsw,Base code for the Gemini Master Process,2024-12-28,Java,"Java: 1393954, HTML: 261897, Scala: 170033, Shell: 28609, Starlark: 6130, Nix: 2797, CSS: 209, Dockerfile: 187",https://github.com/gemini-hlsw/gmp
+goats,gemini-hlsw,Time-domain astronomy made time efficient.,2025-07-21,Python,"Python: 616913, JavaScript: 445381, SCSS: 253031, Less: 243280, CSS: 215298, HTML: 133396",https://github.com/gemini-hlsw/goats
+goats-infra,gemini-hlsw,Infrastructure for GOATS.,2025-07-08,Python,Python: 1219,https://github.com/gemini-hlsw/goats-infra
+gpp-client,gemini-hlsw,Python client for GPP GraphQL API,2025-07-21,Python,"Python: 786111, HTML: 8936",https://github.com/gemini-hlsw/gpp-client
+gsp-core,gemini-hlsw,Core schema and data model for GSP.,2023-01-27,Scala,"Scala: 1047613, TSQL: 155180, PLpgSQL: 5095, Shell: 1916",https://github.com/gemini-hlsw/gsp-core
+gsp-montage,gemini-hlsw,Mosaic image server based on Montage.,2020-03-30,Scala,"Scala: 29415, Dockerfile: 1241",https://github.com/gemini-hlsw/gsp-montage
+itac,gemini-hlsw,,2025-07-10,Scala,"Scala: 566387, Java: 35498",https://github.com/gemini-hlsw/itac
+itac-cli,gemini-hlsw,ITAC Command-Line Interface,2023-01-28,Scala,"Scala: 663148, Java: 40945",https://github.com/gemini-hlsw/itac-cli
+itc-server,gemini-hlsw,standalone itc server,2023-02-16,Scala,"Scala: 2312, Shell: 1142, Nix: 908, Procfile: 43",https://github.com/gemini-hlsw/itc-server
+lch,gemini-hlsw,Automates the exchange of candidate positions where we might want to point our laser at during laser runs,2025-05-06,Java,"Java: 663503, Scala: 92278, HTML: 27306, GAP: 10665, Nix: 1931, CSS: 1764, Shell: 264",https://github.com/gemini-hlsw/lch
+log4cats-loglevel,gemini-hlsw,Log4cats loglevel Integration,2024-11-30,Scala,Scala: 26402,https://github.com/gemini-hlsw/log4cats-loglevel
+lucuma-broadcast-channel,gemini-hlsw,,2023-10-23,Scala,Scala: 2676,https://github.com/gemini-hlsw/lucuma-broadcast-channel
+lucuma-catalog,gemini-hlsw,,2025-03-26,Scala,"Scala: 234469, Nix: 841, Shell: 40",https://github.com/gemini-hlsw/lucuma-catalog
+lucuma-core,gemini-hlsw,Lucuma Core Classes,2025-07-21,Scala,"Scala: 1844722, Java: 9570, Nix: 886, Shell: 40",https://github.com/gemini-hlsw/lucuma-core
+lucuma-graphql-routes,gemini-hlsw,Standard routing for Lucuma GraphQL endpoints.,2025-07-08,Scala,"Scala: 46151, Nix: 807, Shell: 40",https://github.com/gemini-hlsw/lucuma-graphql-routes
+lucuma-itc,gemini-hlsw,,2025-07-18,Scala,"Scala: 609059, JavaScript: 15098, Shell: 1495, Nix: 979",https://github.com/gemini-hlsw/lucuma-itc
+lucuma-jts,gemini-hlsw,,2024-11-30,Scala,"Scala: 1897417, Java: 1039170, HTML: 4614",https://github.com/gemini-hlsw/lucuma-jts
+lucuma-odb,gemini-hlsw,,2025-07-21,Scala,"Scala: 4413993, PLpgSQL: 273746, Shell: 2705, Dockerfile: 1015, Nix: 992, Procfile: 294",https://github.com/gemini-hlsw/lucuma-odb
+lucuma-primereact-designer,gemini-hlsw,Designer for primereact themes used by lucuma applications,2022-09-14,CSS,"CSS: 10375234, SCSS: 1079303, Hack: 444862, JavaScript: 97361, Scala: 2912, HTML: 823, Shell: 593, PHP: 45",https://github.com/gemini-hlsw/lucuma-primereact-designer
+lucuma-primereact-sass-theme,gemini-hlsw,PrimeReact Theming with SASS,2024-05-24,SCSS,"SCSS: 1128278, JavaScript: 8392, Scala: 2911, Nix: 972, Shell: 582",https://github.com/gemini-hlsw/lucuma-primereact-sass-theme
+lucuma-react,gemini-hlsw,,2025-07-18,Scala,"Scala: 787766, JavaScript: 15058, HTML: 3986, SCSS: 2614, CSS: 1683, Nix: 940, Shell: 41",https://github.com/gemini-hlsw/lucuma-react
+lucuma-refined,gemini-hlsw,,2025-05-08,Scala,"Scala: 10546, Nix: 886, Shell: 40",https://github.com/gemini-hlsw/lucuma-refined
+lucuma-schemas,gemini-hlsw,Schemas for lucuma DB,2025-07-21,Scala,"Scala: 198020, JavaScript: 2066, Nix: 841, Shell: 85",https://github.com/gemini-hlsw/lucuma-schemas
+lucuma-seed,gemini-hlsw,Seed project for lucuma-based web apps.,2022-06-14,Scala,"Scala: 9695, JavaScript: 2787, Nix: 1051, HTML: 457, SCSS: 150",https://github.com/gemini-hlsw/lucuma-seed
+lucuma-sso,gemini-hlsw,Lucuma Single Sign-On Service and Libraries,2025-07-18,Scala,"Scala: 194546, HTML: 5456, PLpgSQL: 1465, Nix: 931, Procfile: 267, Shell: 40",https://github.com/gemini-hlsw/lucuma-sso
+lucuma-steward,gemini-hlsw,,2025-02-28,,,https://github.com/gemini-hlsw/lucuma-steward
+lucuma-svgdotjs,gemini-hlsw,,2023-02-16,Scala,Scala: 2382,https://github.com/gemini-hlsw/lucuma-svgdotjs
+lucuma-tmp-api,gemini-hlsw,Temporary project for developing the Lucuma science program / ODB API.,2023-09-11,Scala,"Scala: 1078602, Python: 3657, Procfile: 71",https://github.com/gemini-hlsw/lucuma-tmp-api
+lucuma-typed,gemini-hlsw,,2025-06-30,Scala,"Scala: 23579, Nix: 972, Shell: 41",https://github.com/gemini-hlsw/lucuma-typed
+lucuma-ui,gemini-hlsw,scalajs-react component library for GPP UIs,2025-07-21,Scala,"Scala: 401475, SCSS: 65610, CSS: 21632, JavaScript: 2077, Nix: 1038, HTML: 639, Shell: 41",https://github.com/gemini-hlsw/lucuma-ui
+lucupy,gemini-hlsw,Support library for GPP Scheduler service,2025-07-21,Python,Python: 214029,https://github.com/gemini-hlsw/lucupy
+maven-repo,gemini-hlsw,Gemini's public Maven repository,2025-05-27,,,https://github.com/gemini-hlsw/maven-repo
+migration-validator-action,gemini-hlsw,,2023-05-10,JavaScript,"JavaScript: 4905808, Scala: 2533",https://github.com/gemini-hlsw/migration-validator-action
+navigate-configs,gemini-hlsw,Navigate configurations database api,2025-05-02,TypeScript,"TypeScript: 96336, JavaScript: 3031, Dockerfile: 1496, Shell: 440",https://github.com/gemini-hlsw/navigate-configs
+navigate-deploy,gemini-hlsw,Navigate deploy documentation and scripts,2025-05-07,,,https://github.com/gemini-hlsw/navigate-deploy
+navigate-server,gemini-hlsw,New telescope control tool for the Gemini Observatory,2025-07-21,Scala,"Scala: 798669, Shell: 2134, Nix: 1133",https://github.com/gemini-hlsw/navigate-server
+navigate-ts,gemini-hlsw,Navigate TypeScript projects,2025-07-21,TypeScript,"TypeScript: 368293, SCSS: 41245, Shell: 4937, JavaScript: 4126, CSS: 1877, Dockerfile: 1311, HTML: 361",https://github.com/gemini-hlsw/navigate-ts
+observe,gemini-hlsw,GPP Observe Tool,2025-07-21,Scala,"Scala: 2315042, SCSS: 26276, Java: 9746, JavaScript: 4283, Shell: 2137, Nix: 1174, HTML: 417",https://github.com/gemini-hlsw/observe
+ocs,gemini-hlsw,Observatory Control Software,2025-07-21,Java,"Java: 14184316, Scala: 5938840, HTML: 553278, Shell: 11434, JavaScript: 7962, CSS: 7919, AMPL: 7383, Tcl: 2841, Nix: 839",https://github.com/gemini-hlsw/ocs
+ocs-build,gemini-hlsw,Scripts used to build and deploy the OCS.,2018-12-04,Shell,Shell: 59608,https://github.com/gemini-hlsw/ocs-build
+ocs-env-processor,gemini-hlsw,OCS Environmental Data Preprocessor,2024-05-09,Python,Python: 9802,https://github.com/gemini-hlsw/ocs-env-processor
+ocs-osx,gemini-hlsw,,2023-01-28,Scala,Scala: 11806,https://github.com/gemini-hlsw/ocs-osx
+ocs-test,gemini-hlsw,Temporary test playground.,2014-08-29,Java,"Java: 46174, Scala: 8988",https://github.com/gemini-hlsw/ocs-test
+org.ops4j.pax.web,gemini-hlsw,OSGi R4 Http Service and Web Applications (OSGi Enterprise Release chapter 128) implementation using Jetty 9 or Tomcat 7.,2023-02-16,,,https://github.com/gemini-hlsw/org.ops4j.pax.web
+p1-backend-servers,gemini-hlsw,,2022-01-25,Perl,"Perl: 922713, Raku: 24494, Smarty: 3749, Shell: 758, HTML: 315",https://github.com/gemini-hlsw/p1-backend-servers
+react-aladin,gemini-hlsw,,2025-04-13,Scala,"Scala: 19583, TypeScript: 2188, Nix: 1073, JavaScript: 517, Shell: 41",https://github.com/gemini-hlsw/react-aladin
+react-moon,gemini-hlsw,Moon phase component for React,2022-08-31,,"JavaScript: 4883, CSS: 663, HTML: 478",https://github.com/gemini-hlsw/react-moon
+refined-algebra,gemini-hlsw,Algebra instances for refined numerics,2024-11-30,Scala,Scala: 3056,https://github.com/gemini-hlsw/refined-algebra
+sbt-heroku,gemini-hlsw,An sbt plugin for deploying Heroku Scala applications,2024-11-30,Scala,"Scala: 47865, HTML: 1502, Procfile: 90",https://github.com/gemini-hlsw/sbt-heroku
+sbt-lucuma,gemini-hlsw,Shared SBT settings plugin.,2025-07-05,Scala,"Scala: 29541, Nix: 841, Shell: 40",https://github.com/gemini-hlsw/sbt-lucuma
+schedule,gemini-hlsw,GPP Schedule app ,2025-07-17,TypeScript,"TypeScript: 204067, SCSS: 18235, MDX: 5422, HTML: 1690, JavaScript: 848, Procfile: 18",https://github.com/gemini-hlsw/schedule
+scheduler,gemini-hlsw,Greedy algorithm for automatic scheduling ,2025-07-21,Python,"Python: 768425, Dockerfile: 561",https://github.com/gemini-hlsw/scheduler
+scheduler-ocs-env,gemini-hlsw,Environment service for the Scheduler based on OCS data.,2022-09-06,Python,Python: 13841,https://github.com/gemini-hlsw/scheduler-ocs-env
+scheduler-subscriber,gemini-hlsw,Subscriber for the Schedule app,2022-08-31,Python,"Python: 12709, Dockerfile: 385, Procfile: 20",https://github.com/gemini-hlsw/scheduler-subscriber
+scorpio-setup,gemini-hlsw,Files needed for SCORPIO work on GIAPI and GMP,2021-04-01,,,https://github.com/gemini-hlsw/scorpio-setup
+seqexec,gemini-hlsw,Observatory Control Software - New Generation,2025-06-25,Scala,"Scala: 2826396, Less: 56124, Java: 9746, JavaScript: 9643, Python: 6027, Shell: 3743, Nix: 1571",https://github.com/gemini-hlsw/seqexec
+tcssim,gemini-hlsw,TCS simulator,2025-04-30,Scala,"Scala: 176940, Java: 647",https://github.com/gemini-hlsw/tcssim
+tom_base,gemini-hlsw,The base Django project for a Target and Observation Manager,2023-12-20,Python,"Python: 987638, HTML: 87401, CSS: 825",https://github.com/gemini-hlsw/tom_base
+wasm-flate,gemini-hlsw,"🗜️⚡WebAssembly powered compression and decompression in the browser and server. Supports GZIP, ZLIB and DEFLATE",2022-09-22,Rust,"Rust: 4599, Nix: 947",https://github.com/gemini-hlsw/wasm-flate
+webapp-util,gemini-hlsw,Scala Webapp Utilities,2024-08-23,,"Scala: 535523, TLA: 6284, JavaScript: 1221, Shell: 1032, Makefile: 89",https://github.com/gemini-hlsw/webapp-util
